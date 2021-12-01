@@ -1,0 +1,41 @@
+*{
+    font-family: 'Indie Flower', cursive;
+}
+
+
+
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+/* Header Stuff */
+header{
+    min-height: 800px;
+}
+.NameContainer{
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 170px;
+    
+}
+
+@media screen and (max-width:541px) {
+    .NameContainer h1{
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width:490px) {
+    header .NameContainer h1{
+        font-size: 50px;
+    }
+}
+@media screen and (max-width:260px) {
+    header .NameContainer h1{
+        font-size: 30px;
+    }
+    header .NameContainer h3{
+        font-size: 20px;
+    }
+}
