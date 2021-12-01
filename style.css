@@ -1,5 +1,7 @@
 *{
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Cinzel', serif;
+/* font-family: 'El Messiri', sans-serif;
+font-family: 'Indie Flower', cursive; */
 }
 
 
@@ -18,6 +20,11 @@ header{
     text-align: center;
     margin-top: 200px;
     
+}
+
+.NameContainer h1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .typed-text{
