@@ -16,7 +16,7 @@ header{
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-top: 170px;
+    margin-top: 200px;
     
 }
 
@@ -40,4 +40,8 @@ header{
         font-size: 30px;
     }
     
+}
+
+.socialList li{
+    display: inline-block;
 }
