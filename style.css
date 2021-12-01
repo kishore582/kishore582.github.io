@@ -4,7 +4,7 @@
 
 
 
-h1, h2, h3, h4, h5, h6, p{
+h1, h2, h3, h4, h5, h6, p, span{
     color: white;
 }
 /* Header Stuff */
@@ -20,6 +20,10 @@ header{
     
 }
 
+.typed-text{
+    font-size: 30px;
+    font-weight: bold;
+}
 @media screen and (max-width:541px) {
     .NameContainer h1{
         font-size: 60px;
@@ -35,7 +39,5 @@ header{
     header .NameContainer h1{
         font-size: 30px;
     }
-    header .NameContainer h3{
-        font-size: 20px;
-    }
+    
 }
