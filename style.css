@@ -1,63 +1,75 @@
-*{
+* {
     font-family: 'Cinzel', serif;
-/* font-family: 'El Messiri', sans-serif;
+    /* font-family: 'El Messiri', sans-serif;
 font-family: 'Indie Flower', cursive; */
 }
 
-
-
-h1, h2, h3, h4, h5, h6, p, span{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
     color: white;
 }
+
+
 /* Header Stuff */
-header{
+
+header {
     min-height: 700px;
 }
-.NameContainer{
+
+.NameContainer {
     height: 200px;
     justify-content: center;
     align-items: center;
     text-align: center;
     margin-top: 200px;
-    
 }
 
-.NameContainer h1{
+.NameContainer h1 {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
 
-.typed-text{
+.typed-text {
     font-size: 30px;
     font-weight: bold;
 }
+
 @media screen and (max-width:541px) {
-    .NameContainer h1{
+    .NameContainer h1 {
         font-size: 60px;
     }
 }
 
 @media screen and (max-width:490px) {
-    header .NameContainer h1{
+    header .NameContainer h1 {
         font-size: 50px;
     }
 }
+
 @media screen and (max-width:260px) {
-    header .NameContainer h1{
+    header .NameContainer h1 {
         font-size: 30px;
     }
-    
 }
 
-.socialList li{
+.socialList li {
     display: inline-block;
 }
 
-.introTextCotainer{
+.introTextCotainer {
     text-align: center;
+    height: 100%;
 }
-.introTextCotainer p{
+
+.introTextCotainer p {
     text-align: center;
     font-size: 20px;
     font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
 }
