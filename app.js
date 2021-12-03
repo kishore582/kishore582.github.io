@@ -43,5 +43,11 @@ function type() {
   document.addEventListener("DOMContentLoaded", function () {
     // On DOM Load initiate the effect
     if (textArray.length) setTimeout(type, newTextDelay + 250);
+
+    var elems = document.querySelectorAll('.carousel');
+    var instances = M.Carousel.init(elems, {
+      // fullWidth: true,
+      // indicators: true
+    });
   });
   

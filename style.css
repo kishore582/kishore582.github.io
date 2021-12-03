@@ -80,3 +80,14 @@ header {
     border-left: 5px solid rgb(128, 150, 29);
     margin-top: 4px;
 }
+
+
+.carousel .carousel-item {
+    visibility: hidden;
+    width: 400px;
+    height:400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
