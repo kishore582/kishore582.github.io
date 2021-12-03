@@ -19,7 +19,7 @@ span {
 /* Header Stuff */
 
 header {
-    min-height: 700px;
+    min-height: 100%;
 }
 
 .NameContainer {
@@ -64,7 +64,6 @@ header {
 
 .introTextCotainer {
     text-align: center;
-    height: 100%;
 }
 
 
