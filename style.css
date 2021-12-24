@@ -23,7 +23,7 @@ header {
 }
 
 body {
-    background-image: url(imgs/newBG.png);
+    background-image: url(imgs/bgimg.jpeg);
     background-repeat: no-repeat;
     background-position: fixed;
     background-size: cover;
