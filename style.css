@@ -1,5 +1,5 @@
 * {
-    font-family: 'Cinzel', serif;
+    font-family: 'Libre Baskerville', serif;
     /* font-family: 'El Messiri', sans-serif;
 font-family: 'Indie Flower', cursive; */
 }
@@ -23,7 +23,7 @@ header {
 }
 
 body {
-    background-image: url(imgs/bgimg.jpeg);
+    background-image: url(imgs/newBG.png);
     background-repeat: no-repeat;
     background-position: fixed;
     background-size: cover;
@@ -39,7 +39,7 @@ body {
 
 .NameContainer h1 {
     font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
 .typed-text {
