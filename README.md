@@ -1,2 +1,2 @@
-# kishore582.github.io
-Welcome to my GitHub portfolio! This repository is a collection of my work, showcasing projects, code samples, and contributions that highlight my skills, creativity, and experience as a Full Stack Developer
+# Kishore Kumaar K.S (B.E.,) - Java Developer
+Welcome to my GitHub portfolio! This repository is a collection of my work, showcasing projects, code samples, and contributions that highlight my skills, creativity, and experience. I am basically a Java Developer, with the knowledge of GitHub, Git, MySQL Database, HTML and CSS Frontend Technologies. I am on the roadway of pursuing Full Stack Development.
