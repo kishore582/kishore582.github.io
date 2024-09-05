@@ -1,0 +1,30 @@
+body
+{
+    border: 10px solid #BBDB9B;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+    line-height: 12px;
+}
+
+.container1
+{
+    font-family: Kleymisska;
+    font-size: 50px;
+}
+
+.container2
+{
+    font-family: HUBBY BUNNY;
+    font-size: 75px;
+}
+
+#p2
+{
+    color: #B80C09;
+}
+
+#p4
+{
+    color: #4C4C9D;
+}
