@@ -7,6 +7,19 @@ body
     line-height: 12px;
 }
 
+.maincontent
+{
+    padding-left: 20px;
+    padding-top: 160px;
+}
+
+.background
+{
+    padding-left: 1087px;
+    padding-bottom: 3px;
+    background-color: #4C4C9D;
+}
+
 .container1
 {
     font-family: Kleymisska;
@@ -27,4 +40,4 @@ body
 #p4
 {
     color: #4C4C9D;
-}
+} 
