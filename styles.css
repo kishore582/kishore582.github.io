@@ -5,19 +5,30 @@ body
     padding: 0px;
     margin: 0px;
     line-height: 12px;
+    position: relative;
 }
 
 .maincontent
 {
-    padding-left: 20px;
+    padding-left: 100px;
     padding-top: 160px;
 }
 
-.background
+.right-half img
 {
-    padding-left: 1087px;
-    padding-bottom: 3px;
+    position: absolute;
+    height:100vh;
+    top: 0.6px;
+    left: 1092px;
+    bottom: 0.6px;
     background-color: #4C4C9D;
+}
+
+.my-photo img
+{
+    position: absolute;
+    top: 120px;
+    left: 900px;
 }
 
 .container1
